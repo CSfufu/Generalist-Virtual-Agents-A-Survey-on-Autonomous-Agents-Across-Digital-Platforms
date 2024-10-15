@@ -21,11 +21,11 @@ Must-Read papers about Generalist-Virtual-Agents
 ### 🤖 WHAT IS A GENERALIST VIRTUAL AGENT?
 1. **World of bits: an open-domain platform for web-based agents**
 
-   *Tianlin Tim Shi, Andrej Karpathy, Linxi Jim Fan, Jonathan Hernandez,and Percy Liang.*[[abs]](https://dl.acm.org/doi/10.5555/3305890.3306005) ICML’17
+   *Tianlin Tim Shi, Andrej Karpathy, Linxi Jim Fan, Jonathan Hernandez,and Percy Liang.*[[abs]](https://dl.acm.org/doi/10.5555/3305890.3306005), ICML’17
 
 2. **Visualwebarena: Evaluating multimodal agents on realistic visual web tasks**
 
-    *Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, and Daniel Fried.*[[abs]](https://arxiv.org/abs/2401.13649)
+    *Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, and Daniel Fried.*[[abs]](https://arxiv.org/abs/2401.13649), 2024.6
 
 ### 💭 WHY DO WE NEED GENERALIST VIRTUAL AGENTS?
 
